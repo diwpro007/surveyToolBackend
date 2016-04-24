@@ -1,0 +1,61 @@
+[[{
+    "answerValue": "Tap water",
+    "is_single": "m",
+    "questionID": 1,
+    "surveyID": 0
+}, {
+    "answerValue": "Fh",
+    "is_single": "s",
+    "questionID": 2,
+    "surveyID": 0
+}, {
+    "answerValue": "Agriculture",
+    "is_single": "m",
+    "questionID": 3,
+    "surveyID": 0
+}, {
+    "answerValue": "Firewood",
+    "is_single": "m",
+    "questionID": 4,
+    "surveyID": 0
+}], [{
+    "answerValue": "Spring",
+    "is_single": "m",
+    "questionID": 1,
+    "surveyID": 0
+}, {
+    "answerValue": "Chfg",
+    "is_single": "s",
+    "questionID": 2,
+    "surveyID": 0
+}, {
+    "answerValue": "Business(mention type)",
+    "is_single": "m",
+    "questionID": 3,
+    "surveyID": 0
+}, {
+    "answerValue": "kerosene",
+    "is_single": "m",
+    "questionID": 4,
+    "surveyID": 0
+}], [{
+    "answerValue": "Tap water",
+    "is_single": "m",
+    "questionID": 1,
+    "surveyID": 0
+}, {
+    "answerValue": "Fg",
+    "is_single": "s",
+    "questionID": 2,
+    "surveyID": 0
+}, {
+    "answerValue": "Agriculture",
+    "is_single": "m",
+    "questionID": 3,
+    "surveyID": 0
+}, {
+    "answerValue": "kerosene",
+    "is_single": "m",
+    "questionID": 4,
+    "surveyID": 0
+}]]

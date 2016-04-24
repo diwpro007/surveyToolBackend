@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #ccc no-repeat center center fixed url(image.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 
+}
+
+body {
+    font-family: Roboto;
+}
+
+.main {
+    background: rgba(0,0,0,.4);
+    border-radius: 8px;
+    padding: 8px;
+}
